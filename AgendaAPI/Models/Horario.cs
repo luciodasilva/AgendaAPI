@@ -1,6 +1,6 @@
 ﻿namespace AgendaAPI.Models
 {
-    public class Agenda
+    public class Horario
     {
         public DateTime DataHora { get; set; }
         public int ClienteId { get; set; }
