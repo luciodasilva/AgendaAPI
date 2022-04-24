@@ -1,0 +1,7 @@
+C:\Users\Lúcio\Documents\Projeto Integrador\AgendaAPI\AgendaAPI\obj\Debug\net6.0\AgendaAPI.csproj.AssemblyReference.cache
+C:\Users\Lúcio\Documents\Projeto Integrador\AgendaAPI\AgendaAPI\obj\Debug\net6.0\AgendaAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lúcio\Documents\Projeto Integrador\AgendaAPI\AgendaAPI\obj\Debug\net6.0\AgendaAPI.AssemblyInfoInputs.cache
+C:\Users\Lúcio\Documents\Projeto Integrador\AgendaAPI\AgendaAPI\obj\Debug\net6.0\AgendaAPI.AssemblyInfo.cs
+C:\Users\Lúcio\Documents\Projeto Integrador\AgendaAPI\AgendaAPI\obj\Debug\net6.0\AgendaAPI.csproj.CoreCompileInputs.cache
+C:\Users\Lúcio\Documents\Projeto Integrador\AgendaAPI\AgendaAPI\obj\Debug\net6.0\AgendaAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lúcio\Documents\Projeto Integrador\AgendaAPI\AgendaAPI\obj\Debug\net6.0\AgendaAPI.MvcApplicationPartsAssemblyInfo.cache
