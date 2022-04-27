@@ -2,6 +2,8 @@
 {
     public class Horario
     {
+        public int Id { get; set; }
+        public string Servico { get; set; }
         public DateTime DataHora { get; set; }
         public int ClienteId { get; set; }
         public Cliente cliente { get; set; }
