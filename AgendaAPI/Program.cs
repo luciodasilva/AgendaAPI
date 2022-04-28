@@ -20,5 +20,9 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+app.UseHttpsRedirection();
+
+app.MapGet("/cliente", (Context context)
+    => context.Clientes.ToList());
 
 app.Run();
